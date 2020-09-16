@@ -1,0 +1,418 @@
+DNN-Based Speech Bandwidth Expansion and Its Application to Adding High-Frequency Missing Features for Automatic Speech Recognition of Narrowband Speech
+Combating Reverberation in Large Vocabulary Continuous Speech Recognition
+Multimodal Read-Aloud eBooks for Language Learning
+MIVOQ-PTTS - A Revolutionary New Way of Thinking TTS
+HMM-Based Speech Enhancement Using Sub-Word Models and Noise Adaptation
+Toward Scalable Dialog Technology for Conversational Language Learning : Case Study of the TOEFL® MOOC
+Real-time Single-channel Dereverberation and Separation with Time-domain Audio Separation Network
+CACTAS - Collaborative Audio Categorization and Transcription for ASR Systems
+Independent Modelling of High and Low Energy Speech Frames for Spoofing Detection
+HMM Adaptation for Child Speech Synthesis
+Using Semantic Maps for Robust Natural Language Interaction with Robots
+Speaker Diarization Using Leave-One-Out Gaussian PLDA Clustering of DNN Embeddings
+Maximum a posteriori Speech Enhancement Based on Double Spectrum
+Sequential Convolutional Neural Networks for Slot Filling in Spoken Language Understanding
+Diphthongization of Nuclear Vowels and the Emergence of a Tetraphthong in Hetang Cantonese
+Priors for Speaker Counting and Diarization with AHC
+Vowels and Diphthongs in the Xupu Xiang Chinese Dialect
+Towards an Autarkic Embedded Cognitive User Interface
+Backstitch : Counteracting Finite-Sample Bias via Negative Steps
+The Effect of Exposure to High Altitude and Heat on Speech Articulatory Coordination
+Privacy-Preserving Siamese Feature Extraction for Gender Recognition versus Speaker Identification
+Tools for Rapid Customization of S2S Systems for Emergent Domains
+Reverberation-Robust Acoustic Indoor Localization
+Speech Bandwidth Extension Using Bottleneck Features and Deep Recurrent Neural Networks
+Kinematic Signatures of Prosody in Lombard Speech
+Dialect-geographical Acoustic-Tonetics : Five Disyllabic Tone Sandhi Patterns in Cognate Words from the Wu Dialects of ZhèJiāNg Province
+Assessing Idiosyncrasies in a Bayesian Model of Speech Communication
+System Supporting Speaker Identification in Emergency Call Center
+Improving Speaker-Independent Lipreading with Domain-Adversarial Training
+Hierarchical Pooling Structure for Weakly Labeled Sound Event Detection
+Minimum Word Error Training of RNN-Based Voice Activity Detection
+Deep Neural Network Frontend for Continuous EMG-Based Speech Recognition
+Few-Shot Audio Classification with Attentional Graph Neural Networks
+Speaker-Aware Neural Network Based Beamformer for Speaker Extraction in Speech Mixtures
+Speaker Diarization with Lexical Information
+Multi-Task CTC Training with Auxiliary Feature Reconstruction for End-to-End Speech Recognition
+MCE 2018 : The 1st Multi-Target Speaker Detection and Identification Challenge Evaluation
+Bayesian Subspace Hidden Markov Model for Acoustic Unit Discovery
+Sequence-to-Sequence Speech Recognition with Time-Depth Separable Convolutions
+Acoustic Data-Driven Lexicon Learning Based on a Greedy Pronunciation Selection Framework
+Improving the Prediction Power of the Speech Transmission Index to Account for Non-Linear Distortions Introduced by Noise-Reduction Algorithms
+Glottal Squeaks in VC Sequences
+On Design of Robust Deep Models for CHiME-4 Multi-Channel Speech Recognition with Multiple Configurations of Array Microphones
+Joint Sound Source Separation and Speaker Recognition
+Sparse Non-Negative Matrix Language Modeling : Maximum Entropy Flexibility on the Cheap
+Acquisition of English Speech Rhythm by Monolingual Children
+Aligning Meeting Recordings via Adaptive Fingerprinting
+Real-Time Tracking of Speakers ’ Emotions , States , and Traits on Mobile Platforms
+Incorporating a Generative Front-End Layer to Deep Neural Network for Noise Robust Automatic Speech Recognition
+Composition-Based On-the-Fly Rescoring for Salient n-Gram Biasing
+Visual Learning 2 : Pronunciation App Using Ultrasound , Video , and MRI
+Multi-Task Learning with High-Order Statistics for x-Vector Based Text-Independent Speaker Verification
+Automatic Speech Recognition and Topic Identification from Speech for Almost-Zero-Resource Languages
+Contextual Slot Carryover for Disparate Schemas
+Robust Keyword Spotting via Recycle-Pooling for Mobile Game
+Impact of Aliasing on Deep CNN-Based End-to-End Acoustic Models
+Expert and Crowdsourced Annotation of Pronunciation Errors for Automatic Scoring Systems
+Using the Bag-of-Audio-Word Feature Representation of ASR DNN Posteriors for Paralinguistic Classification
+QAT2 — The QCRI Advanced Transcription and Translation System
+Emojive !<q>Collecting Emotion Data from Speech and Facial Expression Using Mobile Game App
+On Robustness of Unsupervised Domain Adaptation for Speaker Recognition
+Learning the Speech Front-End with Raw Waveform CLDNNs
+Smarter Driving with IDA , the Intelligent Driving Assistant for Singapore
+Bilinear Map of Filter-Bank Outputs for DNN-Based Speech Recognition
+Detecting Depression with Audio/Text Sequence Modeling of Interviews
+Neural Spatial Filter : Target Speaker Speech Separation Assisted with Directional Information
+Semi-Supervised and Cross-Lingual Knowledge Transfer Learnings for DNN Hybrid Acoustic Models Under Low-Resource Conditions
+DNN-Based Automatic Speech Recognition as a Model for Human Phoneme Perception
+A Comprehensive 3D Biomechanically-Driven Vocal Tract Model Including Inverse Dynamics for Speech Research
+An HMM/DNN Comparison for Synchronized Text-to-Speech and Tongue Motion Synthesis
+End-to-End Speech Command Recognition with Capsule Network
+Expressive Speech Synthesis via Modeling Expressions with Variational Autoencoder
+Subword and Crossword Units for CTC Acoustic Models
+Articulation Rate Filtering of CQCC Features for Automatic Speaker Verification
+Improving Prediction of Speech Activity Using Multi-Participant Respiratory State
+Large-Scale Mixed-Bandwidth Deep Neural Network Acoustic Modeling for Automatic Speech Recognition
+A Maximum Likelihood Approach to Deep Neural Network Based Nonlinear Spectral Mapping for Single-Channel Speech Separation
+Voice-Conditioned Allophones of MOUTH and PRICE in Bahamian Creole
+SpeechYOLO : Detection and Localization of Speech Objects
+Audio-Visual Speech Recognition Using Bimodal-Trained Bottleneck Features for a Person with Severe Hearing Loss
+Deep Learning Techniques for Koala Activity Detection
+Emotional Speech of Mentally and Physically Disabled Individuals : Introducing the EmotAsS Database and First Findings
+Factored Deep Convolutional Neural Networks for Noise Robust Speech Recognition
+Regression and Classification for Direction-of-Arrival Estimation with Convolutional Recurrent Neural Networks
+End-to-End Articulatory Attribute Modeling for Low-Resource Multilingual Speech Recognition
+Off the Cuff : Exploring Extemporaneous Speech Delivery with TTS
+Machine Learning Powered Data Platform for High-Quality Speech and NLP Workflows
+PATSY — It 's All About Pronunciation !
+The Influence of Language Experience on the Categorical Perception of Vowels : Evidence from Mandarin and Korean
+Robust Features for Sonorant Segmentation in Continuous Speech
+End-to-End Convolutional Sequence Learning for ASL Fingerspelling Recognition
+Large-Scale Speaker Retrieval on Random Speaker Variability Subspace
+Joint Learning of Speaker and Phonetic Similarities with Siamese Networks
+Valence , Arousal and Dominance Estimation for English , German , Greek , Portuguese and Spanish Lexica Using Semantic Models
+LibriTTS : A Corpus Derived from LibriSpeech for Text-to-Speech
+Attentive Sequence-to-Sequence Learning for Diacritic Restoration of YorùBá Language Text
+Efficient Use of DNN Bottleneck Features in Generalized Variable Parameter HMMs for Noise Robust Speech Recognition
+wav2vec : Unsupervised Pre-Training for Speech Recognition
+Topic and Keyword Identification for Low-resourced Speech Using Cross-Language Transfer Learning
+An Adaptive-Q Cochlear Model for Replay Spoofing Detection
+A Strategy for Improved Phone-Level Lyrics-to-Audio Alignment for Speech-to-Singing Synthesis
+The JHU Speaker Recognition System for the VOiCES 2019 Challenge
+Multi-Channel Training for End-to-End Speaker Recognition Under Reverberant and Noisy Environment
+A Computational Model of Early Language Acquisition from Audiovisual Experiences of Young Infants
+Individual Identity in Songbirds : Signal Representations and Metric Learning for Locating the Information in Complex Corvid Calls
+Causal Speech Enhancement Combining Data-Driven Learning and Suppression Rule Estimation
+Emotion Identification from Raw Speech Signals Using DNNs
+Bags in Bag : Generating Context-Aware Bags for Tracking Emotions from Speech
+How Neural Network Depth Compensates for HMM Conditional Independence Assumptions in DNN-HMM Acoustic Models
+Curriculum-Based Transfer Learning for an Effective End-to-End Spoken Language Understanding and Domain Portability
+Categorization of Natural Spanish Whistled Vowels by Naïve Spanish Listeners
+Measuring Mimicry in Task-Oriented Conversations : Degree of Mimicry is Related to Task Difficulty
+Evolving Learning for Analysing Mood-Related Infant Vocalisation
+Prosodic Factors Influencing Vowel Reduction in Russian
+Speaker Embedding Extraction with Phonetic Information
+Attractiveness of French Voices for German Listeners — Results from Native and Non-Native Read Speech
+Automatic Prediction of Speech Evaluation Metrics for Dysarthric Speech
+Modeling Phrasing and Prominence Using Deep Recurrent Learning
+Anti-Spoofing Speaker Verification System with Multi-Feature Integration and Multi-Task Learning
+An Empirical Model of Emphatic Word Detection
+Contextual Language Model Adaptation for Conversational Agents
+Channel Selection in the Short-Time Modulation Domain for Distant Speech Recognition
+Joint Student-Teacher Learning for Audio-Visual Scene-Aware Dialog
+Discovering Dialog Rules by Means of an Evolutionary Approach
+Normal Variance-Mean Mixtures for Unsupervised Score Calibration
+Improving Emotion Identification Using Phone Posteriors in Raw Speech Waveform Based DNN
+Incorporating Prosodic Prominence Evidence into Term Weights for Spoken Content Retrieval
+Indoor/Outdoor Audio Classification Using Foreground Speech Segmentation
+Pronunciation Accuracy and Intelligibility of Non-Native Speech
+A French-Spanish Multimodal Speech Communication Corpus Incorporating Acoustic Data , Facial , Hands and Arms Gestures Information
+Automatic Transformation of Irregular to Regular Voice by Residual Analysis and Synthesis
+Improving Mandarin Tone Recognition Using Convolutional Bidirectional Long Short-Term Memory with Attention
+On the Influence of Text Content on Pass-Phrase Strength for Short-Duration Text-Dependent Automatic Speaker Authentication
+Specialized Speech Enhancement Model Selection Based on Learned Non-Intrusive Quality Assessment Metric
+Latent Topic Attention for Domain Classification
+Integration of Deep Bottleneck Features for Audio-Visual Speech Recognition
+Double Joint Bayesian Modeling of DNN Local I-Vector for Text Dependent Speaker Verification with Random Digit Strings
+“ Gra [ f ] e ! ” Word-Final Devoicing of Obstruents in Standard French : An Acoustic Study Based on Large Corpora
+Analyzing Phonetic and Graphemic Representations in End-to-End Automatic Speech Recognition
+Advances in Joint CTC-Attention Based End-to-End Speech Recognition with a Deep CNN Encoder and RNN-LM
+Multilingual Tandem Bottleneck Feature for Language Identification
+Toward High-Performance Language-Independent Query-by-Example Spoken Term Detection for MediaEval 2015 : Post-Evaluation Analysis
+MetaLab : A Repository for Meta-Analyses on Language Development , and More
+Open-Vocabulary Keyword Spotting with Audio and Text Embeddings
+Analysis of BUT Submission in Far-Field Scenarios of VOiCES 2019 Challenge
+Glottal Closure Instants Detection from Speech Signal by Deep Features Extracted from Raw Speech and Linear Prediction Residual
+Analyzing Intra-Speaker and Inter-Speaker Vocal Tract Impedance Characteristics in a Low-Dimensional Feature Space Using t-SNE
+VCV Synthesis Using Task Dynamics to Animate a Factor-Based Articulatory Model
+Harmonic Beamformers for Non-Intrusive Speech Intelligibility Prediction
+Coda Stop and Taiwan Min Checked Tone Sound Changes
+An Objective Critical Distance Measure Based on the Relative Level of Spectral Valley
+Non-Iterative Parameter Estimation for Total Variability Model Using Randomized Singular Value Decomposition
+Deep Sensing of Breathing Signal During Conversational Speech
+An End-to-End Text-Independent Speaker Verification Framework with a Keyword Adversarial Network
+Effectively Building Tera Scale MaxEnt Language Models Incorporating Non-Linguistic Signals
+Unsupervised Phonetic and Word Level Discovery for Speech to Speech Translation for Unwritten Languages
+ML Parameter Generation with a Reformulated MGE Training Criterion — Participation in the Voice Conversion Challenge 2016
+Comparison of Telephone Recordings and Professional Microphone Recordings for Early Detection of Parkinson ’ s Disease , Using Mel-Frequency Cepstral Coefficients with Gaussian Mixture Models
+Synthesising Uncertainty : The Interplay of Vocal Effort and Hesitation Disfluencies
+Perceptual Evaluation of Early versus Late F0 Peaks in the Intonation Structure of Czech Question-Word Questions
+Postfiltering with Complex Spectral Correlations for Speech and Audio Coding
+Using Approximated Auditory Roughness as a Pre-Filtering Feature for Human Screaming and Affective Speech AED
+Using Attention Networks and Adversarial Augmentation for Styrian Dialect Continuous Sleepiness and Baby Sound Recognition
+Audio Replay Attack Detection with Deep Learning Frameworks
+Combination of NN and CRF Models for Joint Detection of Punctuation and Disfluencies
+Analysis of Length Normalization in End-to-End Speaker Verification System
+Acoustic Modeling from Frequency Domain Representations of Speech
+Filter Sampling and Combination CNN ( FSC-CNN ) : A Compact CNN Model for Small-footprint ASR Acoustic Modeling Using Raw Waveforms
+Detecting Media Sound Presence in Acoustic Scenes
+Which Acoustic and Phonological Factors Shape Infants ’ Vowel Discrimination ?<q>Exploiting Natural Variation in InPhonDB
+Phrase Break Prediction for Long-Form Reading TTS : Exploiting Text Structure Information
+Least Squares Estimate of the Initial Phases in STFT Based Speech Enhancement
+Improving Robustness of Speaker Recognition to New Conditions Using Unlabeled Data
+Monaural Multi-Talker Speech Recognition with Attention Mechanism and Gated Convolutional Networks
+Personalized Speech Recognizer with Keyword-Based Personalized Lexicon and Language Model Using Word Vector Representations
+Enriching Rare Word Representations in Neural Language Models by Embedding Matrix Augmentation
+SNR-Invariant PLDA Modeling for Robust Speaker Verification
+Speech Driven Backchannel Generation Using Deep Q-Network for Enhancing Engagement in Human-Robot Interaction
+A Scalable Noisy Speech Dataset and Online Subjective Test Framework
+Statistical Acoustic-to-Articulatory Mapping Unified with Speaker Normalization Based on Voice Conversion
+Localizing Bird Songs Using an Open Source Robot Audition System with a Microphone Array
+Speaker Diarization Using Convolutional Neural Network for Statistics Accumulation Refinement
+Deep Recurrent Neural Network Based Monaural Speech Separation Using Recurrent Temporal Restricted Boltzmann Machines
+Quantifying Difference in Vocalizations of Bird Populations
+Uncertainty Propagation Through Deep Neural Networks
+Lattice-Based Lightly-Supervised Acoustic Model Training
+Analysis of Acoustic-to-Articulatory Speech Inversion Across Different Accents and Languages
+Incremental Dialogue Act Recognition : Token- vs Chunk-Based Classification
+Gaussian Process Neural Networks for Speech Recognition
+Polyphone Disambiguation for Mandarin Chinese Using Conditional Neural Network with Multi-Level Embedding Features
+Generation of Large-Scale Simulated Utterances in Virtual Rooms to Train Deep-Neural Networks for Far-Field Speech Recognition in Google Home
+Biosignal Processing for Human-Machine Interaction
+Time to Frequency Domain Mapping of the Voice Source : The Influence of Open Quotient and Glottal Skew on the Low End of the Source Spectrum
+A Robust Framework for Acoustic Scene Classification
+Improving Mongolian Phrase Break Prediction by Using Syllable and Morphological Embeddings with BiLSTM Model
+Study of the Performance of Automatic Speech Recognition Systems in Speakers with Parkinson ’ s Disease
+Using Zero-Frequency Resonator to Extract Multilingual Intonation Structure
+Semi-Supervised Adaptation of RNNLMs by Fine-Tuning with Domain-Specific Auxiliary Features
+Cross-language Phoneme Mapping for Low-resource Languages : An Exploration of Benefits and Trade-offs
+Homophone Identification and Merging for Code-switched Speech Recognition
+Text-Informed Speech Enhancement with Deep Neural Networks
+A Chinese Dataset for Identifying Speakers in Novels
+Is ATIS Too Shallow to Go Deeper for Benchmarking Spoken Language Understanding Models ?
+Foreign Accent Conversion by Synthesizing Speech from Phonetic Posteriorgrams
+Multi-Target Ensemble Learning for Monaural Speech Separation
+Naturalness Judgement of L2 English Through Dubbing Practice
+Two-Pass End-to-End Speech Recognition
+Improving Conversation-Context Language Models with Multiple Spoken Language Understanding Models
+Bubble Cooperative Networks for Identifying Important Speech Cues
+Jointly Learning to Locate and Classify Words Using Convolutional Networks
+The Effect of Situation-Specific Non-Speech Acoustic Cues on the Intelligibility of Speech in Noise
+Prosodic Representations of Prominence Classification Neural Networks and Autoencoders Using Bottleneck Features
+Shadowing Synthesized Speech — Segmental Analysis of Phonetic Convergence
+Multi-Resolution Stacking for Speech Separation Based on Boosted DNN
+Exploiting Visual Features Using Bayesian Gated Neural Networks for Disordered Speech Recognition
+Early Detection of Continuous and Partial Audio Events Using CNN
+Context-Sensitive and Role-Dependent Spoken Language Understanding Using Bidirectional and Attention LSTMs
+FACTS : A Hierarchical Task-based Control Model of Speech Incorporating Sensory Feedback
+Learning Word Vector Representations Based on Acoustic Counts
+Analysis of Face Mask Effect on Speaker Recognition
+Fast Learning for Non-Parallel Many-to-Many Voice Conversion with Residual Star Generative Adversarial Networks
+Transfer Learning with Bottleneck Feature Networks for Whispered Speech Recognition
+Generative Adversarial Networks for Unpaired Voice Transformation on Impaired Speech
+Comparing the Max and Noisy-Or Pooling Functions in Multiple Instance Learning for Weakly Supervised Sequence Learning Tasks
+Towards Language-Universal Mandarin-English Speech Recognition
+Efficient GPU Implementation of Convolutional Neural Networks for Speech Recognition
+Contaminated Speech Training Methods for Robust DNN-HMM Distant Speech Recognition
+The IBM Virtual Voice Creator
+Concatenative Resynthesis Using Twin Networks
+Extending the E-Model Towards Super-Wideband and Fullband Speech Communication Scenarios
+Do not Hesitate !<q>— Unless You Do it Shortly or Nasally : How the Phonetics of Filled Pauses Determine Their Subjective Frequency and Perceived Speaker Performance
+Towards End-to-End Speech Recognition with Deep Convolutional Neural Networks
+The Effect of Spectral Tilt on Size Discrimination of Voiced Speech Sounds
+End-to-End Text-Independent Speaker Verification with Triplet Loss on Short Utterances
+Very Deep Convolutional Neural Networks for LVCSR
+Study of Acoustic Correlates of English Lexical Stress Produced by Native ( L1 ) Bengali Speakers Compared to Native ( L1 ) English Speakers
+Annotating Large Lattices with the Exact Word Error
+Detection and Recovery of OOVs for Improved English Broadcast News Captioning
+Migrating i-Vectors Between Speaker Recognition Systems Using Regression Neural Networks
+The Conversation Continues : the Effect of Lyrics and Music Complexity of Background Music on Spoken-Word Recognition
+Local Sparsity Based Online Dictionary Learning for Environment-Adaptive Speech Enhancement with Nonnegative Matrix Factorization
+A First Investigation of the Timing of Turn-taking in Ruuli
+Better Evaluation of ASR in Speech Translation Context Using Word Embeddings
+Language Effects in Noise-Induced Word Misperceptions
+Cross-Lingual Consistency of Phonological Features : An Empirical Study
+Multilingual Speech Emotion Recognition System Based on a Three-Layer Model
+Speaker-Aware Deep Denoising Autoencoder with Embedded Speaker Identity for Speech Enhancement
+Low-Frequency Ultrasonic Communication for Speech Broadcasting in Public Transportation
+Joint Learning of J-Vector Extractor and Joint Bayesian Model for Text Dependent Speaker Verification
+A Praat-Based Algorithm to Extract the Amplitude Envelope and Temporal Fine Structure Using the Hilbert Transform
+Speech Synthesis in Noisy Environment by Enhancing Strength of Excitation and Formant Prominence
+Combining State-Level Spotting and Posterior-Based Acoustic Match for Improved Query-by-Example Spoken Term Detection
+Effects of Training Data Variety in Generating Glottal Pulses from Acoustic Features with DNNs
+A Neural Parametric Singing Synthesizer
+WHAM !<q>: Extending Speech Separation to Noisy Environments
+Tracking Contours of Orofacial Articulators from Real-Time MRI of Speech
+Big Five vs. Prosodic Features as Cues to Detect Abnormality in SSPNET-Personality Corpus
+Towards the Speech Features of Early-Stage Dementia : Design and Application of the Mandarin Elderly Cognitive Speech Database
+Testing the Distinctiveness of Intonational Tunes : Evidence from Imitative Productions in American English
+Sampling from Stochastic Finite Automata with Applications to CTC Decoding
+Articulatory-to-Acoustic Conversion with Cascaded Prediction of Spectral and Excitation Features Using Neural Networks
+Role Play Dialogue Aware Language Models Based on Conditional Hierarchical Recurrent Encoder-Decoder
+Lattice Re-Scoring During Manual Editing for Automatic Error Correction of ASR Transcripts
+A Discriminative Reliability-Aware Classification Model with Applications to Intelligibility Classification in Pathological Speech
+CNN-Based Joint Mapping of Short and Long Utterance i-Vectors for Speaker Verification Using Short Utterances
+Estimation of the Air-Tissue Boundaries of the Vocal Tract in the Mid-Sagittal Plane from Electromagnetic Articulograph Data
+Char+CV-CTC : Combining Graphemes and Consonant/Vowel Units for CTC-Based ASR Using Multitask Learning
+Excitation Source Features for Improving the Detection of Vowel Onset and Offset Points in a Speech Sequence
+Discovering Discrete Subword Units with Binarized Autoencoders and Hidden-Markov-Model Encoders
+Acoustic Scene Classification by Implicitly Identifying Distinct Sound Events
+Designing a Pneumatic Bionic Voice Prosthesis - A Statistical Approach for Source Excitation Generation
+Analysis of Coarticulated Speech Using Estimated Articulatory Trajectories
+Exploiting Eigenposteriors for Semi-Supervised Training of DNN Acoustic Models with Sequence Discrimination
+Visualizing Phoneme Category Adaptation in Deep Neural Networks
+Feature Exploration for Almost Zero-Resource ASR-Free Keyword Spotting Using a Multilingual Bottleneck Extractor and Correspondence Autoencoders
+Fast and Accurate OOV Decoder on High-Level Features
+Improved Example-Based Speech Enhancement by Using Deep Neural Network Acoustic Model for Noise Robust Example Search
+Spotting Social Signals in Conversational Speech over IP : A Deep Learning Perspective
+Score Stabilization for Speaker Recognition Trained on a Small Development Set
+Multiple Phase Information Combination for Replay Attacks Detection
+Estimation of Hypernasality Scores from Cleft Lip and Palate Speech
+Convolutional Neural Network to Model Articulation Impairments in Patients with Parkinson ’ s Disease
+Improving Speech Synthesis with Discourse Relations
+Unsupervised Learning of Acoustic Units Using Autoencoders and Kohonen Nets
+Augmented CycleGANs for Continuous Scale Normal-to-Lombard Speaking Style Conversion
+Vocal Tract Airway Tissue Boundary Tracking for rtMRI Using Shape and Appearance Priors
+Direct Modeling of Frequency Spectra and Waveform Generation Based on Phase Recovery for DNN-Based Speech Synthesis
+A Relevance Score Estimation for Spoken Term Detection Based on RNN-Generated Pronunciation Embeddings
+Manual versus Automated : The Challenging Routine of Infant Vocalisation Segmentation in Home Videos to Study Neuro ( mal ) development
+Speaking Rate , Information Density , and Information Rate in First-Language and Second-Language Speech
+Automatic Visual Augmentation for Concatenation Based Synthesized Articulatory Videos from Real-time MRI Data for Spoken Language Training
+Effects of Urgent Speech and Preceding Sounds on Speech Intelligibility in Noisy and Reverberant Environments
+Joint Decoding of Tandem and Hybrid Systems for Improved Keyword Spotting on Low Resource Languages
+Automatic Detection of Prosodic Focus in American English
+Direction-Aware Speaker Beam for Multi-Channel Speaker Extraction
+Exploring How Phone Classification Neural Networks Learn Phonetic Information by Visualising and Interpreting Bottleneck Features
+Improved Speech Separation with Time-and-Frequency Cross-Domain Joint Embedding and Clustering
+Probabilistic Spatial Filter Estimation for Signal Enhancement in Multi-Channel Automatic Speech Recognition
+A Dual Source-Filter Model of Snore Audio for Snorer Group Classification
+Effectiveness of Speech Demodulation-Based Features for Replay Detection
+The Perceptual Effect of L1 Prosody Transplantation on L2 Speech : The Case of French Accented German
+Two-Stage Data Augmentation for Low-Resourced Speech Recognition
+An Optimization Based Approach for Solving Spoken CALL Shared Task
+Neural Attention Models for Sequence Classification : Analysis and Application to Key Term Extraction and Dialogue Act Detection
+Investigation of Speed-Accuracy Tradeoffs in Speech Production Using Real-Time Magnetic Resonance Imaging
+Active Learning Based Data Selection for Limited Resource STT and KWS
+A Combination of Model-Based and Feature-Based Strategy for Speech-to-Singing Alignment
+Acoustic-to-Articulatory Mapping Based on Mixture of Probabilistic Canonical Correlation Analysis
+Semantic Edge Detection for Tracking Vocal Tract Air-Tissue Boundaries in Real-Time Magnetic Resonance Images
+Binaural Speech Intelligibility Estimation Using Deep Neural Networks
+Semi-supervised Learning for Information Extraction from Dialogue
+A Case Study on the Importance of Belief State Representation for Dialogue Policy Management
+Optimizing Speech-Input Length for Speaker-Independent Depression Classification
+Segment-Dependent Dynamics in Predicting Parkinson 's Disease
+Can Intensive Exposure to Foreign Language Sounds Affect the Perception of Native Sounds ?
+Prosody Modification Using Allpass Residual of Speech Signals
+Interaction Mechanisms between Glottal Source and Vocal Tract in Pitch Glides
+An Incremental Turn-Taking Model for Task-Oriented Dialog Systems
+Improved Deep Duel Model for Rescoring N-Best Speech Recognition List Using Backward LSTMLM and Ensemble Encoders
+Whistle-blowing ASRs : Evaluating the Need for More Inclusive Speech Recognition Systems
+Bias and Statistical Significance in Evaluating Speech Synthesis with Mean Opinion Scores
+End-to-End Adaptation with Backpropagation Through WFST for On-Device Speech Recognition System
+On the Suitability of the Riesz Spectro-Temporal Envelope for WaveNet Based Speech Synthesis
+Comparison of Lattice-Free and Lattice-Based Sequence Discriminative Training Criteria for LVCSR
+Acoustic Features Associated with Sustained Vowel and Continuous Speech Productions by Chinese Children with Functional Articulation Disorders
+Deep Speech Denoising with Vector Space Projections
+Capturing L1 Influence on L2 Pronunciation by Simulating Perceptual Space Using Acoustic Features
+User-centric Evaluation of Automatic Punctuation in ASR Closed Captioning
+Phonetic and Phonological Posterior Search Space Hashing Exploiting Class-Specific Sparsity Structures
+Database of Volumetric and Real-Time Vocal Tract MRI for Speech Science
+CRIM 's System for the MGB-3 English Multi-Genre Broadcast Media Transcription
+Estimating the Sincerity of Apologies in Speech by DNN Rank Learning and Prosodic Analysis
+Device Feature Extractor for Replay Spoofing Detection
+Effects of Urgent Speech and Congruent/Incongruent Text on Speech Intelligibility in Noise and Reverberation
+Automatic Time-Frequency Analysis of Echolocation Signals Using the Matched Gaussian Multitaper Spectrogram
+Automatic Classification of Autistic Child Vocalisations : A Novel Database and Results
+Prosodic Focus Acquisition in French Early Cochlear Implanted Children
+Dysarthric Speech Classification Using Glottal Features Computed from Non-words , Words and Sentences
+Call Alternation Between Specific Pairs of Male Frogs Revealed by a Sound-Imaging Method in Their Natural Habitat
+Articulatory Movement Prediction Using Deep Bidirectional Long Short-Term Memory Based Recurrent Neural Networks and Word/Phone Embeddings
+Analysis of Native Listeners ’ Facial Microexpressions While Shadowing Non-Native Speech — Potential of Shadowers ’ Facial Expressions for Comprehensibility Prediction
+Exploration of Compressed ILPR Features for Replay Attack Detection
+SPIRE-SST : An Automatic Web-based Self-learning Tool for Syllable Stress Tutoring ( SST ) to the Second Language Learners
+YIN-Bird : Improved Pitch Tracking for Bird Vocalisations
+Deep Semantic Encodings for Language Modeling
+Unsupervised Stress Information Labeling Using Gaussian Process Latent Variable Model for Statistical Speech Synthesis
+Phonetic Context Embeddings for DNN-HMM Phone Recognition
+Replay Attack Detection Using DNN for Channel Discrimination
+Speaker Augmentation and Bandwidth Extension for Deep Speaker Embedding
+A Phonetic-Level Analysis of Different Input Features for Articulatory Inversion
+A Frequency Normalization Technique for Kindergarten Speech Recognition Inspired by the Role of f in Vowel Perception
+Deep Neural Factorization for Speech Recognition
+Time Delay Histogram Based Speech Source Separation Using a Planar Array
+Multiview Representation Learning via Deep CCA for Silent Speech Recognition
+Multicomponent 2-D AM-FM Modeling of Speech Spectrograms
+Age-Related Changes in European Portuguese Vowel Acoustics
+Robustness in Speech Quality Assessment and Temporal Training Expiry in Mobile Crowdsourcing Environments
+Language Model Data Augmentation for Keyword Spotting in Low-Resourced Training Conditions
+Pashto Intonation Patterns
+Complexity in Speech and its Relation to Emotional Bond in Therapist-Patient Interactions During Suicide Risk Assessment Interviews
+A Machine Learning Based Clustering Protocol for Determining Hearing Aid Initial Configurations from Pure-Tone Audiograms
+Infected Phonemes : How a Cold Impairs Speech on a Phonetic Level
+Sparsity-Constrained Weight Mapping for Head-Related Transfer Functions Individualization from Anthropometric Features
+Changes in Early L2 Cue-Weighting of Non-Native Speech : Evidence from Learners of Mandarin Chinese
+Hybrid Accelerated Optimization for Speech Recognition
+Incremental TTS for Japanese Language
+Analytic Filter Bank for Speech Analysis , Feature Extraction and Perceptual Studies
+BLSTM-CRF Based End-to-End Prosodic Boundary Prediction with Context Sensitive Embeddings in a Text-to-Speech Front-End
+Assessing Empathy Using Static and Dynamic Behavior Models Based on Therapist 's Language in Addiction Counseling
+Unsupervised Speech Signal to Symbol Transformation for Zero Resource Speech Applications
+Does Posh English Sound Attractive ?
+Listener Preference on the Local Criterion for Ideal Binary-Masked Speech
+Triplet Network with Attention for Speaker Diarization
+A New GAN-Based End-to-End TTS Training Algorithm
+Combining Amplitude and Phase-Based Features for Speaker Verification with Short Duration Utterances
+Privacy-Preserving Speaker Recognition with Cohort Score Normalisation
+Automatic Evaluation of Children Reading Aloud on Sentences and Pseudowords
+Discriminating Nasals and Approximants in English Language Using Zero Time Windowing
+Convolutional Neural Networks for Acoustic Modeling of Raw Time Signal in LVCSR
+Comparison of Speech Tasks and Recording Devices for Voice Based Automatic Classification of Healthy Subjects and Patients with Amyotrophic Lateral Sclerosis
+Spanish Statistical Parametric Speech Synthesis Using a Neural Vocoder
+Spoken Language Understanding in a Latent Topic-Based Subspace
+A Novel Approach for Effective Recognition of the Code-Switched Data on Monolingual Language Model
+Flexible Tongue Housed in a Static Model of the Vocal Tract With Jaws , Lips and Teeth
+Cross-Modality Matching of Linguistic and Emotional Prosody
+End-to-end Deep Neural Network Age Estimation
+Improving Performance of End-to-End ASR on Numeric Sequences
+Deep Noise Tracking Network : A Hybrid Signal Processing/Deep Learning Approach to Speech Enhancement
+Sparsely Connected and Disjointly Trained Deep Neural Networks for Low Resource Behavioral Annotation : Acoustic Classification in Couples ’ Therapy
+Real Time Online Visual End Point Detection Using Unidirectional LSTM
+Transfer Learning Based Progressive Neural Networks for Acoustic Modeling in Statistical Parametric Speech Synthesis
+Defining Emotionally Salient Regions Using Qualitative Agreement Method
+Feature Selection Based on CQCCs for Automatic Speaker Verification Spoofing
+Analysis by Adversarial Synthesis — A Novel Approach for Speech Vocoding
+Speech Emotion Recognition by Combining Amplitude and Phase Information Using Convolutional Neural Network
+SERAPHIM : A Wavetable Synthesis System with 3D Lip Animation for Real-Time Speech and Singing Applications on Mobile Platforms
+An Affect Prediction Approach Through Depression Severity Parameter Incorporation in Neural Networks
+An Active Feature Transformation Method for Attitude Recognition of Video Bloggers
+A Metric for Evaluating Speech Recognizer Output Based on Human-Perception Model
+Effectiveness of Voice Quality Features in Detecting Depression
+Singing Voice Phoneme Segmentation by Hierarchically Inferring Syllable and Phoneme Onset Positions
+Noise-Robust Hidden Markov Models for Limited Training Data for Within-Species Bird Phrase Classification
+Building an ASR Corpus Using Althingi ’ s Parliamentary Speeches
+Joint Discriminative Embedding Learning , Speech Activity and Overlap Detection for the DIHARD Speaker Diarization Challenge
+Tongue Tracking in Ultrasound Images Using EigenTongue Decomposition and Artificial Neural Networks
+Picture Naming or Word Reading : Does the Modality Affect Speech Motor Adaptation and Its Transfer ?
+Computational Analysis of Acoustic Descriptors in Psychotic Patients
+Cross-Speaker Variation in Voice Source Correlates of Focus and Deaccentuation
+The Role of Speakers and Context in Classifying Competition in Overlapping Speech
+Perception Optimized Deep Denoising AutoEncoders for Speech Enhancement
+An Entrained Rhythm ’ s Frequency , Not Phase , Influences Temporal Sampling of Speech
+Interactive Spoken Content Retrieval by Deep Reinforcement Learning
+Unsupervised Methods for Audio Classification from Lecture Discussion Recordings
+Phone Classification Using a Non-Linear Manifold with Broad Phone Class Dependent DNNs
+Effect of Noise on Lexical Tone Perception in Cantonese-Speaking Amusics
+Robust Example Search Using Bottleneck Features for Example-Based Speech Enhancement
+Data Augmentation Improves Recognition of Foreign Accented Speech
+Engagement Recognition in Spoken Dialogue via Neural Network by Aggregating Different Annotators ' Models
